@@ -1,0 +1,11 @@
+{
+    "author": "Kasea",
+    "description": "Saves your settings",
+    "name": "settings-saver",
+    "options": {
+        "guiName": "Setting saver",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/settings-saver/master/"],
+    "disableAutoUpdate": false
+}
